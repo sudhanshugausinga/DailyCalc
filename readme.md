@@ -3,7 +3,7 @@
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Car_Cost_Calculator-FF5722?style=for-the-badge&logo=netlify)](https://carscalc.netlify.app)
 
-> **"If you buy a cheaper car and invest the difference, will you be richer in 10 years?"**
+> **"Should you pay more upfront for better mileage, or save on the car price and pay more for fuel?"**
 
 ---
 
@@ -111,3 +111,4 @@ The calculator gives you a verdict badge. Here is what they mean:
 **Created by [Sudhanshu Gausinga]**
 
 *Passionate about Technology, Finance, and building useful tools*
+
