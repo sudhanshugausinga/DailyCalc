@@ -61,15 +61,10 @@ The website features three distinct analysis modes to cover every buyer's dilemm
 ## 📸 Interface & Screenshots
 
 ### EV vs ICE Analysis
-*The Red Line shows the ICE cost + Investment Growth. The Green Line shows EV cost. The intersection is your Break-Even point.*
 ![EV vs ICE Calculator Graph](screenshots/ev-vs-ice.png)
 
-### Dark Mode Support
-*Automatically detects your system preference for OLED-friendly viewing.*
-![EV vs ICE Dark Mode](screenshots/ev-vs-ice(dark).png)
-
 ### EV vs CNG Analysis
-![CNG vs Petrol Calculator](screenshots/ev-vs-cng.png)
+![EV vs CNG Calculator](screenshots/ev-vs-cng.png)
 
 ### CNG vs Petrol Analysis
 ![CNG vs Petrol Calculator](screenshots/cng-vs-petrol.png)
@@ -114,6 +109,7 @@ The calculator gives you a verdict badge. Here is what they mean:
 **Created by [Sudhanshu Gausinga]**
 
 *Passionate about Technology, Finance, and building useful tools*
+
 
 
 
