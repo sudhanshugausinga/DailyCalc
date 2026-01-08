@@ -61,7 +61,7 @@ The website features three distinct analysis modes to cover every buyer's dilemm
 ## 📸 Interface & Screenshots
 
 ### EV vs ICE Analysis
-![EV vs ICE Calculator Graph](screenshots/ev-vs-ice.png)
+![EV vs ICE Calculator](screenshots/ev-vs-ice.png)
 
 ### EV vs CNG Analysis
 ![EV vs CNG Calculator](screenshots/ev-vs-cng.png)
@@ -109,6 +109,7 @@ The calculator gives you a verdict badge. Here is what they mean:
 **Created by [Sudhanshu Gausinga]**
 
 *Passionate about Technology, Finance, and building useful tools*
+
 
 
 
