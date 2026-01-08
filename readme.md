@@ -1,7 +1,7 @@
-# CarsCalc
+# DailyCalc
 ### The Comprehensive EV, CNG & Petrol Financial Calculator
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Car_Cost_Calculator-FF5722?style=for-the-badge&logo=netlify)](https://carscalc.netlify.app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Car_Cost_Calculator-FF5722?style=for-the-badge&logo=netlify)](https://dailycalc.netlify.app/)
 
 > **"Should you pay more upfront for better mileage, or save on the car price and pay more for fuel?"**
 
@@ -109,6 +109,7 @@ The calculator gives you a verdict badge. Here is what they mean:
 **Created by [Sudhanshu Gausinga]**
 
 *Passionate about Technology, Finance, and building useful tools*
+
 
 
 
